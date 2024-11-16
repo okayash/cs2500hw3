@@ -1,8 +1,3 @@
-/* Ashley Fong
-CS2500 Morales
-Homework 3
-Due November 15th, 2024 */
-
 #include <iostream>
 
 using namespace std;
